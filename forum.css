@@ -1,0 +1,31 @@
+.decor
+{
+  background-color: antiquewhite;
+}
+#button 
+ {
+    background-color:plum;
+    color:beige;
+    padding: 10px 20px;
+    cursor: pointer;
+  }
+#button:hover
+{
+   bottom:bold ;
+}
+
+.decor
+{
+    padding: 150px 550px 550px 550px;
+}
+#unlist {
+  list-style-type: none;
+  padding: 0;
+}
+#li {
+  background-color: white;
+  padding: 10px;
+  margin: 10px 0;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+}
