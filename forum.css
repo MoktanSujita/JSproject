@@ -1,6 +1,7 @@
 .decor
 {
   background-color: antiquewhite;
+  padding: 150px 550px 550px 550px;
 }
 #button 
  {
@@ -13,19 +14,16 @@
 {
    bottom:bold ;
 }
-
-.decor
-{
-    padding: 150px 550px 550px 550px;
-}
 #unlist {
   list-style-type: none;
   padding: 0;
 }
-#li {
+
+.li {
   background-color: white;
   padding: 10px;
   margin: 10px 0;
   border: 1px solid #ddd;
   border-radius: 5px;
 }
+
