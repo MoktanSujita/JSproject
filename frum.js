@@ -15,7 +15,7 @@ const datafetch = async()=>             //arrow function
              d.appendChild(li);
         }
 };
-ocument.getElementById("button").addEventListener("click", datafetch);
+document.getElementById("button").addEventListener("click", datafetch);
 
             
        
